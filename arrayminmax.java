@@ -7,7 +7,7 @@ public class arrayminmax {
 
 	public static void main(String[] args) {
 		 // Initializing array of integers
-        Integer[] a= { 2, 4, 7, 5, 9 };
+        Integer[] a= { 1,2,3,4,5,6,7,8,9,10,11,12,13 };
  
         int l= a.length;
         
